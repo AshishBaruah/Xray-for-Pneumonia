@@ -1,0 +1,23 @@
+numpy 
+pandas 
+tensorflow==2.12.0
+dvc
+matplotlib
+seaborn
+notebook
+python-box == 6.0.2
+pyYAML
+tqdm
+ensure == 1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+waitress
+boto3
+opencv-python
+scikit-image
+mlflow==2.2.2
+gdown
+-e .
